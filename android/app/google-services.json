@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "221823087689",
+    "project_id": "vin1-183e0",
+    "storage_bucket": "vin1-183e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221823087689:android:b0fd5c74498e0bb682fb98",
+        "android_client_info": {
+          "package_name": "com.sports.vin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221823087689-4fg8e0759khr1ojd3il82lfjft7qunek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sports.vin",
+            "certificate_hash": "0eac2ce55c9bea32c4d92690dba8b5d1b9a82846"
+          }
+        },
+        {
+          "client_id": "221823087689-0r3vv0o5h2a5immls11f51660rbqoamk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsDgeIJtVIZBgB3lci36WPK8NtNuA-UX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221823087689-0r3vv0o5h2a5immls11f51660rbqoamk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "221823087689-jgs7kja19ccmlkq8negsgucrjsqmfcim.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sport.vin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

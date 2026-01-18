@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>221823087689-jgs7kja19ccmlkq8negsgucrjsqmfcim.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.221823087689-jgs7kja19ccmlkq8negsgucrjsqmfcim</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>221823087689-1h8ru5b8av2hag44egphhoj3sb2ghuoh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDH5-zfCb17YtNSsVO2CXwtA-MuEuKYPEE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>221823087689</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sport.vin</string>
+	<key>PROJECT_ID</key>
+	<string>vin1-183e0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vin1-183e0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:221823087689:ios:9c0369ad92960e3582fb98</string>
+</dict>
+</plist>

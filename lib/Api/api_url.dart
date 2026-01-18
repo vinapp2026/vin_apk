@@ -1,0 +1,30 @@
+class ApiUrl{
+  static const String BaseUrl = "http://vinsports.in/api/";
+  static var register = Uri.parse(BaseUrl+"register");
+  static var login = Uri.parse(BaseUrl+"login");
+  static var logout = Uri.parse(BaseUrl+"logout");
+  static var forgotPassword = Uri.parse(BaseUrl+"forgot-password");
+  static var verifyOtp = Uri.parse(BaseUrl+"verify-otp");
+  static var resendOtp = Uri.parse(BaseUrl+"resend-otp");
+  static var updateEmailPhone = Uri.parse(BaseUrl+"send-otp");
+  static var updateEmailPhoneVerifyOTP = Uri.parse(BaseUrl+"update-user-email-phone");
+  static var resetPassword = Uri.parse(BaseUrl+"reset-password");
+  static var getUserInfo = Uri.parse(BaseUrl+"get-user-info");
+  static var updateUserInfo = Uri.parse(BaseUrl+"update-user-info");
+  static var updateUserProfile = Uri.parse(BaseUrl+"update-user-profile");
+  static var getStadiumList = Uri.parse(BaseUrl+"get-stadium-list");
+  static var getStadiumInfo = Uri.parse(BaseUrl+"get-stadium-info/");
+  static var getCourtList = Uri.parse(BaseUrl+"get-court-list/");
+  static var getCourtInfo = Uri.parse(BaseUrl+"get-court-info/");
+  static var saveBookingInfo = Uri.parse(BaseUrl+"save-booking-info");
+  static var getBookingInfo = Uri.parse(BaseUrl+"get-booking-info");
+  static var savePaymentInfo = Uri.parse(BaseUrl+"save-payment-info");
+  static var saveNotification = Uri.parse(BaseUrl+"save-notification");
+  static var getNotification = Uri.parse(BaseUrl+"get-notification");
+  static var searchStadium = Uri.parse(BaseUrl+"search-stadium");
+  static var getUpcomingInfo = Uri.parse(BaseUrl+"get-upcoming-info/");
+  static var cancelBooking = Uri.parse(BaseUrl+"booking-cancel");
+  static var getFavouriteEvent = Uri.parse(BaseUrl+"get-favourite-event");
+  static var addRemoveFavouriteEvent = Uri.parse(BaseUrl+"add-remove-favourite-event");
+  static var deleteAccount = Uri.parse(BaseUrl+"delete-user");
+}
